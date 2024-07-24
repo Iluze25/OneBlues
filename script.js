@@ -88,7 +88,7 @@ function clickMe() {
 
     setTimeout(showtext5, 4270 + 1600 + 24000 + 16000 + 13000)
 
-    const text6 = "Selamat ulang tahun yang ke 19 One Blues alias Risawan Nugraha, semoga tujuanmu tercapai dengan cepat. Sehat slalu blader"
+    const text6 = "Selamat ulang tahun yang ke 20 One Blues alias Risawan Nugraha, semoga tujuanmu tercapai dengan cepat. Sehat slalu blader"
     const paragraph6 = document.getElementById('pad')
 
     function showtext6(){
