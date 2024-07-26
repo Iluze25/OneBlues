@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html, body {
     margin: 0;
     padding: 0;
@@ -32,4 +33,40 @@ button {
 #sial {
     display: none;
     position: fixed;
+=======
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    margin: 2vw;
+    background-color: black;
+    color: white;
+    font-family: "Silkscreen", sans-serif;
+    text-align: center;
+
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#akhir {
+    display: none;
+    flex-direction: column;
+    font-size: 20px;
+    
+}
+button {
+    font-family: "Silkscreen", sans-serif;
+}
+
+#sial {
+    display: none;
+    position: fixed;
+>>>>>>> 642a6b21f526ece29a46cbe66904c4e7109fa342
 }
